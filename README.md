@@ -4,8 +4,11 @@ This project presents a Convolutional Neural Network (CNN) model for recognizing
 
 Features
 1.Semi-Supervised Learning: Uses pseudo-labeling on unlabeled data to boost the model’s accuracy and make the most of available data.
+
 2.Confidence Filtering: Applies a confidence threshold to ensure only high-confidence predictions are used, reducing noise in the pseudo-labeled dataset.
+
 3.Alternative Algorithm Exploration: The code structure allows for easy experimentation with alternative algorithms, and future work may explore Vision Transformers, RNNs, and more.
+
 4.Real-Time GUI: A user-friendly graphical interface enables real-time character input, enhancing the user experience and providing immediate feedback on model predictions.
 
 Getting Started
